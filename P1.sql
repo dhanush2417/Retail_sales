@@ -138,4 +138,4 @@ SELECT
 FROM hourly_sale
 GROUP BY shift
 
--- END Project
+-- END of Project
